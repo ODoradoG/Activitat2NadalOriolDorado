@@ -1,0 +1,122 @@
+[
+  {
+    "nom": "Barcelona",
+    "pais": "Espanya",
+    "poblacio": 1600000,
+    "ubicacio": { "type": "Point", "coordinates": [2.1734, 41.3851] }
+  },
+  {
+    "nom": "Madrid",
+    "pais": "Espanya",
+    "poblacio": 3200000,
+    "ubicacio": { "type": "Point", "coordinates": [-3.7038, 40.4168] }
+  },
+  {
+    "nom": "Londres",
+    "pais": "Regne Unit",
+    "poblacio": 8900000,
+    "ubicacio": { "type": "Point", "coordinates": [-0.1276, 51.5074] }
+  },
+  {
+    "nom": "Manchester",
+    "pais": "Regne Unit",
+    "poblacio": 553000,
+    "ubicacio": { "type": "Point", "coordinates": [-2.2426, 53.4808] }
+  },
+  {
+    "nom": "Liverpool",
+    "pais": "Regne Unit",
+    "poblacio": 500000,
+    "ubicacio": { "type": "Point", "coordinates": [-2.9916, 53.4084] }
+  },
+  {
+    "nom": "Milà",
+    "pais": "Itàlia",
+    "poblacio": 1350000,
+    "ubicacio": { "type": "Point", "coordinates": [9.1900, 45.4642] }
+  },
+  {
+    "nom": "Munic",
+    "pais": "Alemanya",
+    "poblacio": 1470000,
+    "ubicacio": { "type": "Point", "coordinates": [11.5820, 48.1351] }
+  },
+  {
+    "nom": "Dortmund",
+    "pais": "Alemanya",
+    "poblacio": 588000,
+    "ubicacio": { "type": "Point", "coordinates": [7.4653, 51.5136] }
+  },
+  {
+    "nom": "París",
+    "pais": "França",
+    "poblacio": 2140000,
+    "ubicacio": { "type": "Point", "coordinates": [2.3522, 48.8566] }
+  },
+  {
+    "nom": "Saint-Denis",
+    "pais": "França",
+    "poblacio": 113000,
+    "ubicacio": { "type": "Point", "coordinates": [2.3570, 48.9362] }
+  },
+  {
+    "nom": "Rio de Janeiro",
+    "pais": "Brasil",
+    "poblacio": 6700000,
+    "ubicacio": { "type": "Point", "coordinates": [-43.1729, -22.9068] }
+  },
+  {
+    "nom": "Buenos Aires",
+    "pais": "Argentina",
+    "poblacio": 3050000,
+    "ubicacio": { "type": "Point", "coordinates": [-58.3816, -34.6037] }
+  },
+  {
+    "nom": "Ciutat de Mèxic",
+    "pais": "Mèxic",
+    "poblacio": 9200000,
+    "ubicacio": { "type": "Point", "coordinates": [-99.1332, 19.4326] }
+  },
+  {
+    "nom": "East Rutherford",
+    "pais": "Estats Units",
+    "poblacio": 10000,
+    "ubicacio": { "type": "Point", "coordinates": [-74.1029, 40.8339] }
+  },
+  {
+    "nom": "Amsterdam",
+    "pais": "Països Baixos",
+    "poblacio": 872000,
+    "ubicacio": { "type": "Point", "coordinates": [4.9041, 52.3676] }
+  },
+  {
+    "nom": "Lisboa",
+    "pais": "Portugal",
+    "poblacio": 505000,
+    "ubicacio": { "type": "Point", "coordinates": [-9.1393, 38.7223] }
+  },
+  {
+    "nom": "Porto",
+    "pais": "Portugal",
+    "poblacio": 237000,
+    "ubicacio": { "type": "Point", "coordinates": [-8.6291, 41.1579] }
+  },
+  {
+    "nom": "Sevilla",
+    "pais": "Espanya",
+    "poblacio": 688000,
+    "ubicacio": { "type": "Point", "coordinates": [-5.9845, 37.3891] }
+  },
+  {
+    "nom": "Berlín",
+    "pais": "Alemanya",
+    "poblacio": 3660000,
+    "ubicacio": { "type": "Point", "coordinates": [13.4050, 52.5200] }
+  },
+  {
+    "nom": "São Paulo",
+    "pais": "Brasil",
+    "poblacio": 12300000,
+    "ubicacio": { "type": "Point", "coordinates": [-46.6333, -23.5505] }
+  }
+]

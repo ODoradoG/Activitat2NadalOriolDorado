@@ -1,0 +1,170 @@
+[
+  {
+    "nom": "FC Barcelona",
+    "anyFundacio": 1899,
+    "pais": "Espanya",
+    "ciutat": "Barcelona",
+    "colors": ["Blau", "Grana"],
+    "titolsPrincipals": 95
+  },
+  {
+    "nom": "Real Madrid",
+    "anyFundacio": 1902,
+    "pais": "Espanya",
+    "ciutat": "Madrid",
+    "colors": ["Blanc"],
+    "titolsPrincipals": 100
+  },
+  {
+    "nom": "Manchester United",
+    "anyFundacio": 1878,
+    "pais": "Regne Unit",
+    "ciutat": "Manchester",
+    "colors": ["Vermell", "Blanc"],
+    "titolsPrincipals": 68
+  },
+  {
+    "nom": "Liverpool FC",
+    "anyFundacio": 1892,
+    "pais": "Regne Unit",
+    "ciutat": "Liverpool",
+    "colors": ["Vermell"],
+    "titolsPrincipals": 66
+  },
+  {
+    "nom": "Chelsea FC",
+    "anyFundacio": 1905,
+    "pais": "Regne Unit",
+    "ciutat": "Londres",
+    "colors": ["Blau"],
+    "titolsPrincipals": 30
+  },
+  {
+    "nom": "AC Milan",
+    "anyFundacio": 1899,
+    "pais": "Itàlia",
+    "ciutat": "Milà",
+    "colors": ["Vermell", "Negre"],
+    "titolsPrincipals": 48
+  },
+  {
+    "nom": "Bayern Munic",
+    "anyFundacio": 1900,
+    "pais": "Alemanya",
+    "ciutat": "Munic",
+    "colors": ["Vermell", "Blanc"],
+    "titolsPrincipals": 82
+  },
+  {
+    "nom": "Borussia Dortmund",
+    "anyFundacio": 1909,
+    "pais": "Alemanya",
+    "ciutat": "Dortmund",
+    "colors": ["Groc", "Negre"],
+    "titolsPrincipals": 22
+  },
+  {
+    "nom": "Paris Saint-Germain",
+    "anyFundacio": 1970,
+    "pais": "França",
+    "ciutat": "París",
+    "colors": ["Blau", "Vermell"],
+    "titolsPrincipals": 40
+  },
+  {
+    "nom": "Flamengo",
+    "anyFundacio": 1895,
+    "pais": "Brasil",
+    "ciutat": "Rio de Janeiro",
+    "colors": ["Vermell", "Negre"],
+    "titolsPrincipals": 45
+  },
+  {
+    "nom": "Boca Juniors",
+    "anyFundacio": 1905,
+    "pais": "Argentina",
+    "ciutat": "Buenos Aires",
+    "colors": ["Blau", "Groc"],
+    "titolsPrincipals": 35
+  },
+  {
+    "nom": "River Plate",
+    "anyFundacio": 1901,
+    "pais": "Argentina",
+    "ciutat": "Buenos Aires",
+    "colors": ["Blanc", "Vermell"],
+    "titolsPrincipals": 38
+  },
+  {
+    "nom": "Club América",
+    "anyFundacio": 1916,
+    "pais": "Mèxic",
+    "ciutat": "Ciutat de Mèxic",
+    "colors": ["Groc", "Blau"],
+    "titolsPrincipals": 31
+  },
+  {
+    "nom": "Arsenal FC",
+    "anyFundacio": 1886,
+    "pais": "Regne Unit",
+    "ciutat": "Londres",
+    "colors": ["Vermell", "Blanc"],
+    "titolsPrincipals": 47
+  },
+  {
+    "nom": "Ajax",
+    "anyFundacio": 1900,
+    "pais": "Països Baixos",
+    "ciutat": "Amsterdam",
+    "colors": ["Blanc", "Vermell"],
+    "titolsPrincipals": 36
+  },
+  {
+    "nom": "Benfica",
+    "anyFundacio": 1904,
+    "pais": "Portugal",
+    "ciutat": "Lisboa",
+    "colors": ["Vermell", "Blanc"],
+    "titolsPrincipals": 37
+  },
+  {
+    "nom": "FC Porto",
+    "anyFundacio": 1893,
+    "pais": "Portugal",
+    "ciutat": "Porto",
+    "colors": ["Blau", "Blanc"],
+    "titolsPrincipals": 30
+  },
+  {
+    "nom": "Sevilla FC",
+    "anyFundacio": 1890,
+    "pais": "Espanya",
+    "ciutat": "Sevilla",
+    "colors": ["Blanc", "Vermell"],
+    "titolsPrincipals": 18
+  },
+  {
+    "nom": "Real Betis",
+    "anyFundacio": 1907,
+    "pais": "Espanya",
+    "ciutat": "Sevilla",
+    "colors": ["Verd", "Blanc"],
+    "titolsPrincipals": 9
+  },
+  {
+    "nom": "Hertha BSC",
+    "anyFundacio": 1892,
+    "pais": "Alemanya",
+    "ciutat": "Berlín",
+    "colors": ["Blau", "Blanc"],
+    "titolsPrincipals": 7
+  },
+  {
+    "nom": "Corinthians",
+    "anyFundacio": 1910,
+    "pais": "Brasil",
+    "ciutat": "São Paulo",
+    "colors": ["Blanc", "Negre"],
+    "titolsPrincipals": 30
+  }
+]

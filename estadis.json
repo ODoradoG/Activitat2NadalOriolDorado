@@ -1,0 +1,227 @@
+[
+  {
+    "nom": "Camp Nou",
+    "ciutat": "Barcelona",
+    "pais": "Espanya",
+    "capacitat": 99354,
+    "anyInauguracio": 1957,
+    "clubPrincipal": "FC Barcelona",
+    "ubicacio": { "type": "Point", "coordinates": [2.1228, 41.3809] }
+  },
+  {
+    "nom": "Santiago Bernabéu",
+    "ciutat": "Madrid",
+    "pais": "Espanya",
+    "capacitat": 81044,
+    "anyInauguracio": 1947,
+    "clubPrincipal": "Real Madrid",
+    "ubicacio": { "type": "Point", "coordinates": [-3.6883, 40.4531] }
+  },
+  {
+    "nom": "Wembley Stadium",
+    "ciutat": "Londres",
+    "pais": "Regne Unit",
+    "capacitat": 90000,
+    "anyInauguracio": 2007,
+    "clubPrincipal": "Selecció anglesa",
+    "ubicacio": { "type": "Point", "coordinates": [-0.2796, 51.5560] }
+  },
+  {
+    "nom": "Old Trafford",
+    "ciutat": "Manchester",
+    "pais": "Regne Unit",
+    "capacitat": 74879,
+    "anyInauguracio": 1910,
+    "clubPrincipal": "Manchester United",
+    "ubicacio": { "type": "Point", "coordinates": [-2.2913, 53.4631] }
+  },
+  {
+    "nom": "Anfield",
+    "ciutat": "Liverpool",
+    "pais": "Regne Unit",
+    "capacitat": 54074,
+    "anyInauguracio": 1884,
+    "clubPrincipal": "Liverpool FC",
+    "ubicacio": { "type": "Point", "coordinates": [-2.9608, 53.4308] }
+  },
+  {
+    "nom": "Stamford Bridge",
+    "ciutat": "Londres",
+    "pais": "Regne Unit",
+    "capacitat": 40834,
+    "anyInauguracio": 1877,
+    "clubPrincipal": "Chelsea FC",
+    "ubicacio": { "type": "Point", "coordinates": [-0.1910, 51.4816] }
+  },
+  {
+    "nom": "San Siro",
+    "ciutat": "Milà",
+    "pais": "Itàlia",
+    "capacitat": 75817,
+    "anyInauguracio": 1926,
+    "clubPrincipal": "AC Milan",
+    "ubicacio": { "type": "Point", "coordinates": [9.1240, 45.4781] }
+  },
+  {
+    "nom": "Allianz Arena",
+    "ciutat": "Munic",
+    "pais": "Alemanya",
+    "capacitat": 75000,
+    "anyInauguracio": 2005,
+    "clubPrincipal": "Bayern Munic",
+    "ubicacio": { "type": "Point", "coordinates": [11.6247, 48.2188] }
+  },
+  {
+    "nom": "Signal Iduna Park",
+    "ciutat": "Dortmund",
+    "pais": "Alemanya",
+    "capacitat": 81365,
+    "anyInauguracio": 1974,
+    "clubPrincipal": "Borussia Dortmund",
+    "ubicacio": { "type": "Point", "coordinates": [7.4519, 51.4926] }
+  },
+  {
+    "nom": "Parc des Princes",
+    "ciutat": "París",
+    "pais": "França",
+    "capacitat": 47929,
+    "anyInauguracio": 1972,
+    "clubPrincipal": "Paris Saint-Germain",
+    "ubicacio": { "type": "Point", "coordinates": [2.2531, 48.8414] }
+  },
+  {
+    "nom": "Stade de France",
+    "ciutat": "Saint-Denis",
+    "pais": "França",
+    "capacitat": 81338,
+    "anyInauguracio": 1998,
+    "clubPrincipal": "Selecció francesa",
+    "ubicacio": { "type": "Point", "coordinates": [2.3601, 48.9244] }
+  },
+  {
+    "nom": "Estádio do Maracanã",
+    "ciutat": "Rio de Janeiro",
+    "pais": "Brasil",
+    "capacitat": 78838,
+    "anyInauguracio": 1950,
+    "clubPrincipal": "Flamengo",
+    "ubicacio": { "type": "Point", "coordinates": [-43.2302, -22.9121] }
+  },
+  {
+    "nom": "La Bombonera",
+    "ciutat": "Buenos Aires",
+    "pais": "Argentina",
+    "capacitat": 54000,
+    "anyInauguracio": 1940,
+    "clubPrincipal": "Boca Juniors",
+    "ubicacio": { "type": "Point", "coordinates": [-58.3645, -34.6356] }
+  },
+  {
+    "nom": "Monumental",
+    "ciutat": "Buenos Aires",
+    "pais": "Argentina",
+    "capacitat": 83214,
+    "anyInauguracio": 1938,
+    "clubPrincipal": "River Plate",
+    "ubicacio": { "type": "Point", "coordinates": [-58.4497, -34.5453] }
+  },
+  {
+    "nom": "Azteca",
+    "ciutat": "Ciutat de Mèxic",
+    "pais": "Mèxic",
+    "capacitat": 87000,
+    "anyInauguracio": 1966,
+    "clubPrincipal": "Club América",
+    "ubicacio": { "type": "Point", "coordinates": [-99.1506, 19.3029] }
+  },
+  {
+    "nom": "MetLife Stadium",
+    "ciutat": "East Rutherford",
+    "pais": "Estats Units",
+    "capacitat": 82500,
+    "anyInauguracio": 2010,
+    "clubPrincipal": "New York Giants",
+    "ubicacio": { "type": "Point", "coordinates": [-74.0745, 40.8135] }
+  },
+  {
+    "nom": "Tottenham Hotspur Stadium",
+    "ciutat": "Londres",
+    "pais": "Regne Unit",
+    "capacitat": 62850,
+    "anyInauguracio": 2019,
+    "clubPrincipal": "Tottenham Hotspur",
+    "ubicacio": { "type": "Point", "coordinates": [-0.0661, 51.6043] }
+  },
+  {
+    "nom": "Emirates Stadium",
+    "ciutat": "Londres",
+    "pais": "Regne Unit",
+    "capacitat": 60260,
+    "anyInauguracio": 2006,
+    "clubPrincipal": "Arsenal FC",
+    "ubicacio": { "type": "Point", "coordinates": [-0.1084, 51.5549] }
+  },
+  {
+    "nom": "Johan Cruyff Arena",
+    "ciutat": "Amsterdam",
+    "pais": "Països Baixos",
+    "capacitat": 54990,
+    "anyInauguracio": 1996,
+    "clubPrincipal": "Ajax",
+    "ubicacio": { "type": "Point", "coordinates": [4.9416, 52.3140] }
+  },
+  {
+    "nom": "Estádio da Luz",
+    "ciutat": "Lisboa",
+    "pais": "Portugal",
+    "capacitat": 64642,
+    "anyInauguracio": 2003,
+    "clubPrincipal": "Benfica",
+    "ubicacio": { "type": "Point", "coordinates": [-9.1840, 38.7527] }
+  },
+  {
+    "nom": "Dragão",
+    "ciutat": "Porto",
+    "pais": "Portugal",
+    "capacitat": 50033,
+    "anyInauguracio": 2003,
+    "clubPrincipal": "FC Porto",
+    "ubicacio": { "type": "Point", "coordinates": [-8.5839, 41.1618] }
+  },
+  {
+    "nom": "Ramón Sánchez-Pizjuán",
+    "ciutat": "Sevilla",
+    "pais": "Espanya",
+    "capacitat": 43883,
+    "anyInauguracio": 1958,
+    "clubPrincipal": "Sevilla FC",
+    "ubicacio": { "type": "Point", "coordinates": [-5.9706, 37.3841] }
+  },
+  {
+    "nom": "Benito Villamarín",
+    "ciutat": "Sevilla",
+    "pais": "Espanya",
+    "capacitat": 60720,
+    "anyInauguracio": 1929,
+    "clubPrincipal": "Real Betis",
+    "ubicacio": { "type": "Point", "coordinates": [-5.9815, 37.3565] }
+  },
+  {
+    "nom": "Olympiastadion",
+    "ciutat": "Berlín",
+    "pais": "Alemanya",
+    "capacitat": 74475,
+    "anyInauguracio": 1936,
+    "clubPrincipal": "Hertha BSC",
+    "ubicacio": { "type": "Point", "coordinates": [13.2394, 52.5147] }
+  },
+  {
+    "nom": "Arena Corinthians",
+    "ciutat": "São Paulo",
+    "pais": "Brasil",
+    "capacitat": 49205,
+    "anyInauguracio": 2014,
+    "clubPrincipal": "Corinthians",
+    "ubicacio": { "type": "Point", "coordinates": [-46.4756, -23.5453] }
+  }
+]
